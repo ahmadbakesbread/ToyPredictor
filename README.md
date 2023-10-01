@@ -26,6 +26,7 @@ Welcome to **ToyPredictor**! This project aims to predict the resale value of to
 ## ⭐ Future Goals
 
 - Optimize the code to make it faster.
+- Implement scheduled API fetches to retrieve data on specific products at designated times. 
 - Begin the development of the machine learning model.
 
 ## 🤝 Contributing
