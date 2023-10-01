@@ -57,6 +57,9 @@ env/
 venv/
 ENV/
 
+.DS_Store
+**/.DS_Store
+
 # Specified files
 PrivateInfo.py
 
@@ -77,6 +80,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-.DS_Store
-**/.DS_Store
