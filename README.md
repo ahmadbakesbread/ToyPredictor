@@ -1,6 +1,6 @@
 # 🚀 ToyPredictor
 
-Welcome to **ToyPredictor**! This project aims to predict the resale value of toys using machine learning. Currently, we're in the data engineering phase, collecting and processing data from platforms like eBay and StockX.
+Welcome to **ToyPredictor**! This project aims to predict the resale value of toys using machine learning. Currently, I'm in the data engineering phase, collecting and processing data from platforms like eBay and StockX.
 
 ## 🎯 Features
 
